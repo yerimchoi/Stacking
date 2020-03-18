@@ -98,6 +98,7 @@ def print_cor(array):
 
     return result_acc, result_auc
 
+
 if __name__ == "__main__":
     warnings.filterwarnings('ignore')
     file_path = 'C:/Users/lvaid/skku/Technometrics/Paper/'
